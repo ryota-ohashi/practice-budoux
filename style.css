@@ -1,0 +1,10 @@
+h2{
+  font-weight: bold;
+}
+.text-box{
+  width: 50%;
+  margin: 50px auto;
+  line-height: 1.7;
+  background-color: rgb(233, 233, 233);
+  margin-bottom: 50px;
+}
